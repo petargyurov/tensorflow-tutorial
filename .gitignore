@@ -1,0 +1,13 @@
+/.idea
+/__pycache__
+/venv
+/models
+**/images
+**/pre_trained_models
+*.exe
+events.out.tfevents.*
+ckpt-*
+checkpoint*
+*.record
+*.pb
+
